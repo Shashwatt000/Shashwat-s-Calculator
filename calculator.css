@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+  }
+  td {
+    padding: 20px;
+    border: 2px solid black;
+  }
+  #display {
+    height: 50px;
+    width: 243px;
+    background-color: chartreuse;
+  }
+  
